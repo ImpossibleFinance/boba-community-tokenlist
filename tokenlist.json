@@ -50,7 +50,7 @@
    "name": "Bunny",
    "address": "0x85067d7a036f992c264F3C3dd1333e3819fD165A",
    "symbol": "BUNNY",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x85067d7a036f992c264F3C3dd1333e3819fD165A/logo.png"
  },
@@ -66,7 +66,7 @@
    "name": "USD Coin",
    "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
    "symbol": "USDC",
-   "decimals": 18,
+   "decimals": 6,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc/logo.png"
  },
@@ -85,14 +85,6 @@
    "decimals": 18,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x5747a93C87943A9567c6db00b38F1E78bF14b7C0/logo.png"
- },
- {
-   "name": "Genesis",
-   "address": "0x19B659aa8d88B9097B2fFFB852323666C2201328",
-   "symbol": "GENESIS",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x19B659aa8d88B9097B2fFFB852323666C2201328/logo.png"
  },
  {
    "name": "Boba WAGMI v1 Option",
@@ -118,22 +110,7 @@
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
  },
- {
-   "name": "TuringMonster",
-   "address": "0xce458FC7cfC322cDd65eC77Cf7B6410002E2D793",
-   "symbol": "TUMO",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xce458FC7cfC322cDd65eC77Cf7B6410002E2D793/logo.png"
- },
- {
-   "name": "Boba Punks",
-   "address": "0x3CA6F1D2F935752d16121895378ff4898db71B04",
-   "symbol": "bPUNKS",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x3CA6F1D2F935752d16121895378ff4898db71B04/logo.png"
- },
+
  {
    "name": "Frax",
    "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
@@ -154,7 +131,7 @@
    "name": "Tether USD",
    "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
    "symbol": "USDT",
-   "decimals": 18,
+   "decimals": 6,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d/logo.png"
  },
@@ -162,12 +139,12 @@
    "name": "SenpaiSwap",
    "address": "0xaC3a4aF1778203c8B651dAfA73cEd5b79c80F239",
    "symbol": "SENPAI",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xaC3a4aF1778203c8B651dAfA73cEd5b79c80F239/logo.png"
  },
  {
-   "name": "Binance",
+   "name": "Binance Coin",
    "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
    "symbol": "BNB",
    "decimals": 18,
@@ -178,7 +155,7 @@
    "name": "BobaTeaInu",
    "address": "0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03",
    "symbol": "BTEA",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
  },
@@ -194,7 +171,7 @@
    "name": "Bobalien",
    "address": "0xBD4Ec2aF5645DE10f16383075Cf7D5bEBFb587cC",
    "symbol": "BA",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xBD4Ec2aF5645DE10f16383075Cf7D5bEBFb587cC/logo.png"
  },
@@ -231,14 +208,6 @@
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xbDae9250dFDB333C6ccd8ad7e91EDB1BFe4e374D/logo.png"
  },
  {
-   "name": "OolongSwap LP Token",
-   "address": "0x2B4eb79f682629517523ECCA9FEEB7768B3bc149",
-   "symbol": "OLP",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x2B4eb79f682629517523ECCA9FEEB7768B3bc149/logo.png"
- },
- {
    "name": "nUSD LP",
    "address": "0x9D7283A6AeeD9BCd4Ac70876fEA2b69a63DD8cb9",
    "symbol": "nUSD-LP",
@@ -271,14 +240,6 @@
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x7445Efc8A6F1279434133408BEdeb6Eb4d1537Ab/logo.png"
  },
  {
-   "name": "SenpaiSwap LP",
-   "address": "0x32fDfeA5CdCe7E417818ed5093E8bD4cA85dfE06",
-   "symbol": "SLP",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x32fDfeA5CdCe7E417818ed5093E8bD4cA85dfE06/logo.png"
- },
- {
    "name": "Matic",
    "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
    "symbol": "MATIC",
@@ -290,39 +251,23 @@
    "name": "Bodh Boba Token",
    "address": "0x26551aB3ac68C8f31FD33464B8b9fA56ef0c5b95",
    "symbol": "bBOBA",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x26551aB3ac68C8f31FD33464B8b9fA56ef0c5b95/logo.png"
- },
- {
-   "name": "Boba Apes",
-   "address": "0xcfD526e356c61f581F8f4685B8440dAE70f61D43",
-   "symbol": "bApes",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xcfD526e356c61f581F8f4685B8440dAE70f61D43/logo.png"
  },
  {
    "name": "SHIBOBA",
    "address": "0x4e496dbBa5CB910E0A8B15Df77A32AC4805C3962",
    "symbol": "SHIBOBA",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x4e496dbBa5CB910E0A8B15Df77A32AC4805C3962/logo.png"
- },
- {
-   "name": "OolongSwap LP Token",
-   "address": "0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67",
-   "symbol": "OLP",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67/logo.png"
  },
  {
    "name": "BobaDoge",
    "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
    "symbol": "BobaDoge",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
  },
@@ -330,39 +275,23 @@
    "name": "BobaFloki",
    "address": "0xC66d5513F133502461aB8793Bd93be5Cf4308C7d",
    "symbol": "BFLOKI",
-   "decimals": 18,
+   "decimals": 9,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xC66d5513F133502461aB8793Bd93be5Cf4308C7d/logo.png"
- },
- {
-   "name": "Alpha CYBER",
-   "address": "0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5",
-   "symbol": "aCYBER",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5/logo.png"
  },
  {
    "name": "Bodh Ether",
    "address": "0xe970c37243F3d0B2AeB041b855Ef6466CB140BcA",
    "symbol": "bETH",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xe970c37243F3d0B2AeB041b855Ef6466CB140BcA/logo.png"
- },
- {
-   "name": "Waifu Cloner",
-   "address": "0xaE4a00A5051141BfDc16B7588E174EFE40CEF53f",
-   "symbol": "xWAIFU",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xaE4a00A5051141BfDc16B7588E174EFE40CEF53f/logo.png"
  },
  {
    "name": "Wrapped BTC",
    "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
    "symbol": "WBTC",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b/logo.png"
  },
@@ -370,7 +299,7 @@
    "name": "Bodh USD Coin",
    "address": "0xa9b99d5CF2d8Dd2DdF482BAc441892D1F0166C83",
    "symbol": "bUSDC",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa9b99d5CF2d8Dd2DdF482BAc441892D1F0166C83/logo.png"
  },
@@ -389,22 +318,6 @@
    "decimals": 18,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xc67b9B1B0557aeAfA10AA1fFa1d7c87087a6149E/logo.png"
- },
- {
-   "name": "OolongSwap LP Token",
-   "address": "0x476f31d3B2C24ADA84a6F2D1788656562C691BAF",
-   "symbol": "OLP",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x476f31d3B2C24ADA84a6F2D1788656562C691BAF/logo.png"
- },
- {
-   "name": "OolongSwap LP Token",
-   "address": "0xa21c042F23bF1838Dd8725CACc08A79F9A644487",
-   "symbol": "OLP",
-   "decimals": 18,
-   "chainID": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa21c042F23bF1838Dd8725CACc08A79F9A644487/logo.png"
  },
  {
    "name": "Synapse",
@@ -442,7 +355,7 @@
    "name": "Bodh Tether",
    "address": "0xdD1818918ba1726eb5431821aB53fA1C26E4d4F4",
    "symbol": "bUSDT",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xdD1818918ba1726eb5431821aB53fA1C26E4d4F4/logo.png"
  },
@@ -450,7 +363,7 @@
    "name": "Bodh Frax",
    "address": "0xceDC8DAE716d92633a4cb308F443Ce0589c43a6F",
    "symbol": "bFRAX",
-   "decimals": 18,
+   "decimals": 8,
    "chainID": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xceDC8DAE716d92633a4cb308F443Ce0589c43a6F/logo.png"
  },
