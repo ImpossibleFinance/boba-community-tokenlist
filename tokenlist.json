@@ -184,7 +184,7 @@
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xB5cB0975716A4AA6438d3FA02364886E13fd678c/logo.png"
  },
  {
-   "name": "Zencha DAI USDC USDT",
+   "name": "Zencha DAI/USDC/USDT",
    "address": "0x65de3707b6E3AA5c0E3677fB8D3Ea88f82a30B48",
    "symbol": "zenchaUSD",
    "decimals": 18,
@@ -194,7 +194,7 @@
  {
    "name": "invETH Dominance",
    "address": "0xbDae9250dFDB333C6ccd8ad7e91EDB1BFe4e374D",
-   "symbol": "Jun 2022",
+   "symbol": "INVETHDOM-JUN22",
    "decimals": 18,
    "chainId": 288,
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xbDae9250dFDB333C6ccd8ad7e91EDB1BFe4e374D/logo.png"
