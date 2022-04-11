@@ -15,14 +15,6 @@
   ],
   "tokens": [
  {
-   "name": "Ether",
-   "address": "0x4200000000000000000000000000000000000006",
-   "symbol": "ETH",
-   "decimals": 18,
-   "chainId": 288,
-   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x4200000000000000000000000000000000000006/logo.png"
- },
- {
    "name": "Boba Token",
    "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
    "symbol": "BOBA",
@@ -192,7 +184,7 @@
    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xB5cB0975716A4AA6438d3FA02364886E13fd678c/logo.png"
  },
  {
-   "name": "Zencha DAI/USDC/USDT",
+   "name": "Zencha DAI USDC USDT",
    "address": "0x65de3707b6E3AA5c0E3677fB8D3Ea88f82a30B48",
    "symbol": "zenchaUSD",
    "decimals": 18,
